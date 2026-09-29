@@ -76,10 +76,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 <div align="center">
-  
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
 
 <details>
 
