@@ -1,7 +1,7 @@
 ![Android_Java_Projects](https://socialify.git.ci/tomasreyes83/Android_Java_Projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 <p align="center">
-<a href="https://github.com/tomasreyes83/Android_Java_Projects">
+<a href="https://github.com/danield36/Android_Java_Projects">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
@@ -9,7 +9,7 @@
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tomasreyes83&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tomasreyes83/Android_Java_Projects)
 
   <p align="center">
-<a href="https://github.com/tomasreyes83/Android_Java_Projects">
+<a href="https://github.com/danield36/Android_Java_Projects">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftomasreyes83%2FAndroid_Java_Projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
