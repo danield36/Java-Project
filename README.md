@@ -1,4 +1,4 @@
-![Android_Java_Projects](https://socialify.git.ci/tomasreyes83/Android_Java_Projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![Android_Java_Projects](https://socialify.git.ci/danield36/Android_Java_Projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 <p align="center">
 <a href="https://github.com/danield36/Android_Java_Projects">
@@ -6,14 +6,14 @@
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tomasreyes83&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tomasreyes83/Android_Java_Projects)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/Android_Java_Projects)
 
   <p align="center">
 <a href="https://github.com/danield36/Android_Java_Projects">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftomasreyes83%2FAndroid_Java_Projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2FAndroid_Java_Projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/tomasreyes83/Android_Java_Projects">
+<a href="https://github.com/danield36/Android_Java_Projects">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -66,7 +66,7 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/tomasreyes83/Android_Java_Projects/issues) page.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/danield36/Android_Java_Projects/issues) page.
 
 Thank you for exploring! 🚀
 
@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![Stargazers repo roster for @tomasreyes83/Android_Java_Projects](http://reporoster.com/stars/dark/tomasreyes83/Android_Java_Projects)](https://github.com/tomasreyes83/Android_Java_Projects/stargazers)
+[![Stargazers repo roster for @danield36/Android_Java_Projects](http://reporoster.com/stars/dark/danield36/Android_Java_Projects)](https://github.com/danield36/Android_Java_Projects/stargazers)
 
 
 
@@ -96,14 +96,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center" >
 
-[![Forkers repo roster for @tomasreyes83/Android_Java_Projects](http://reporoster.com/forks/dark/tomasreyes83/Android_Java_Projects)](https://github.com/tomasreyes83/Android_Java_Projects/network/members)
+[![Forkers repo roster for @danield36/Android_Java_Projects](http://reporoster.com/forks/dark/danield36/Android_Java_Projects)](https://github.com/danield36/Android_Java_Projects/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://contrib.rocks/image?repo=tomasreyes83/Android_Java_Projects"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/Android_Java_Projects"/>
 </a>
 
 
@@ -112,30 +112,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tomasreyes83/Android_Java_Projects?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/Android_Java_Projects?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/tomasreyes83/Android_Java_Projects?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/Android_Java_Projects?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/tomasreyes83"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=tomasreyes83&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
